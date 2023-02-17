@@ -1,5 +1,5 @@
-# Multi_Bom
 # DEMO VERSION
+# Indonesian (+62) Only
 
 -LEBIH BANYAK NOMOR
 
